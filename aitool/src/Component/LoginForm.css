@@ -1,0 +1,89 @@
+.form_container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .logo_container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .title_container h1 {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .title_container p {
+    font-size: 14px;
+    color: gray;
+  }
+  
+  .input_field {
+    margin-bottom: 15px;
+  }
+  
+  .input_field label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  
+  .input_wrapper input {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .sign-in_btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .sign-in_btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .separator {
+    margin: 15px 0;
+    font-size: 14px;
+    color: gray;
+  }
+  
+  .alt_login_buttons button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .sign-in_ggl {
+    background-color: #db4437;
+    color: white;
+  }
+  
+  .sign-in_apl {
+    background-color: black;
+    color: white;
+  }
+  
+  .note {
+    font-size: 14px;
+    margin-top: 15px;
+  }
+  
+  .note a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
